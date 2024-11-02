@@ -1,1 +1,1 @@
-This repository contains the landing page project for codsoft internship.
+This repository contains the calculator project for codsoft internship.
